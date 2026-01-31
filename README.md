@@ -15,14 +15,35 @@
 
 ## Overview
 
-Generative AI excels at generating text, images, and code. Now, it's time to use it for generating dynamic, emotionally expressive avatars. Today, we officially launch the **ADA (Agent Driven Avatar)** project, designed to provide a unified standard for avatar representation and interaction for AI agents.
+Generative AI excels at generating text, images, and code. Now, it's time to use it for generating dynamic, emotionally expressive avatars. Today, we officially launch the **ADA (Agent Driven Avatar)** project, which includes:
 
-ADA enables AI agents to:
+1. **ADA Protocol** - A declarative JSON protocol for real-time avatar rendering and control
+2. **Avatar.md Format** - A comprehensive configuration format for defining complete digital personas
+
+### ADA Protocol
+
+The ADA Protocol enables AI agents to:
 - 🎭 **Dynamically generate avatars** - Create contextually appropriate avatars based on conversation and user preferences
 - 🎬 **Express emotions and intent** - Communicate through facial expressions, gestures, and voice synchronization
 - 🔄 **Cross-platform consistency** - Maintain consistent experiences across Web, mobile, VR/AR platforms
 - 🔒 **Secure and controllable** - Declarative specifications ensure safe and controllable avatar generation
 - 🤝 **Multi-agent collaboration** - Support multiple agents interacting as avatars in the same scene
+
+### Avatar.md Format
+
+<function_calls>
+A standardized configuration file format for defining complete digital personas:
+- 🎯 **Complete Identity** - Appearance, voice, personality, background story
+- 🧠 **Knowledge & Skills** - Expertise domains, capabilities, and clear limitations
+- 👥 **Social Network** - Relationships with other avatars and human collaborators
+- 🏢 **Transparent Company Model** - Human-AI co-piloted organizations with full transparency
+- 📊 **Performance Metrics** - Track and improve avatar effectiveness
+
+📖 **Quick Links**:
+- [Avatar.md Specification](./AVATAR_SPEC.md) - Complete format definition
+- [Quick Start Guide](./AVATAR_QUICKSTART.md) - Create your first avatar in 5 minutes
+- [Example: Peter Steinberger](./examples/peter-steinberger.avatar.md) - Real-world entrepreneur avatar
+- [Template](./Avatar.template.md) - Ready-to-use template
 
 ## The Problem: Agents Need a More Human Presence
 

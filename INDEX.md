@@ -18,7 +18,12 @@
    - 常用场景速查
    - JSON 格式快速参考
 
-3. 🎮 [在线演示](https://ada.dev/playground) - **动手实践**
+3. 🎭 [AVATAR_QUICKSTART.md](./AVATAR_QUICKSTART.md) - **创建数字人** ⭐ NEW
+   - 5 分钟创建第一个 Avatar
+   - Avatar.md 核心概念
+   - 实用技巧和最佳实践
+
+4. 🎮 [在线演示](https://ada.dev/playground) - **动手实践**
    - 互动式格式浏览器
    - 实时预览效果
 
@@ -45,6 +50,12 @@
    - 量化收益
    - 路线图
    - 开发者迁移指南
+
+7. 🎭 [AVATAR_SPEC.md](./AVATAR_SPEC.md) - **Avatar 完整规范** ⭐ NEW
+   - Avatar.md 格式详细定义
+   - Dr. Emma Chen 完整示例
+   - 透明公司模型
+   - 人-AI 协作框架
 
 ---
 

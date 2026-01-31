@@ -1,6 +1,15 @@
 # ADA：Agent Driven Avatar - 智能体驱动的虚拟形象（数字人）
 
-> **中文 | [English](./README.md)**
+<div align="center">
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/kuibu/ADA/releases)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/kuibu/ADA/pulls)
+[![GitHub Stars](https://img.shields.io/github/stars/kuibu/ADA?style=social)](https://github.com/kuibu/ADA/stargazers)
+
+**中文 | [English](./README.md)**
+
+</div>
 
 > **让智能代理拥有生动的虚拟形象（数字人），实现更自然的人机交互**
 

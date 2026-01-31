@@ -1,6 +1,15 @@
 # ADA: Agent Driven Avatar
 
-> **[中文](./README.zh-CN.md) | English**
+<div align="center">
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/kuibu/ADA/releases)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/kuibu/ADA/pulls)
+[![GitHub Stars](https://img.shields.io/github/stars/kuibu/ADA?style=social)](https://github.com/kuibu/ADA/stargazers)
+
+**[中文](./README.zh-CN.md) | English**
+
+</div>
 
 > **Give AI agents lifelike avatars for more natural human-computer interaction**
 

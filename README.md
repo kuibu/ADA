@@ -31,7 +31,6 @@ The ADA Protocol enables AI agents to:
 
 ### Avatar.md Format
 
-<function_calls>
 A standardized configuration file format for defining complete digital personas:
 - 🎯 **Complete Identity** - Appearance, voice, personality, background story
 - 🧠 **Knowledge & Skills** - Expertise domains, capabilities, and clear limitations
